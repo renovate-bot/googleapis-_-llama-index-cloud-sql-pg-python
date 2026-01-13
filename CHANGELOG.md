@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.3.0](https://github.com/googleapis/llama-index-cloud-sql-pg-python/compare/v0.2.3...v0.3.0) (2026-01-13)
+
+
+### ⚠ BREAKING CHANGES
+
+* Disable support for py3.9 and enable support for py3.13 ([#169](https://github.com/googleapis/llama-index-cloud-sql-pg-python/issues/169))
+
+
 ## [0.2.3](https://github.com/googleapis/llama-index-cloud-sql-pg-python/compare/v0.2.2...v0.2.3) (2025-06-18)
 
 
