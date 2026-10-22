@@ -66,6 +66,15 @@
         "minor",
         "patch"
       ],
-    }
+    },
+    {
+      "description": "Disable SQLAlchemy updates for Python <= 3.10",
+      "matchPackageNames": [
+        "SQLAlchemy",
+        "sqlalchemy"
+      ],
+      "matchCurrentValue": "/2\\.0\\./",
+      "enabled": false,
+    },
   ],
 }
