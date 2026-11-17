@@ -1,6 +1,6 @@
-cloud-sql-python-connector[asyncpg]==1.22.0; python_version < '3.11'
-cloud-sql-python-connector[asyncpg]==1.23.0; python_version >= '3.11'
-llama-index-core==0.14.25
+cloud-sql-python-connector[asyncpg]==1.24.0; python_version < '3.11'
+cloud-sql-python-connector[asyncpg]==1.24.0; python_version >= '3.11'
+llama-index-core==0.14.26
 pgvector==0.5.1
 SQLAlchemy[asyncio]==2.0.52; python_version < '3.11'
-SQLAlchemy[asyncio]==2.1.8; python_version >= '3.11'
+SQLAlchemy[asyncio]==2.1.9; python_version >= '3.11'
